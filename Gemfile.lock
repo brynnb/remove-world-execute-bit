@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fakefs (0.9.0)
+    ffi (1.9.14)
+    sys-admin (1.6.4)
+      ffi (>= 1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fakefs
+  sys-admin
+
+RUBY VERSION
+   ruby 2.2.2p95
+
+BUNDLED WITH
+   1.12.5
